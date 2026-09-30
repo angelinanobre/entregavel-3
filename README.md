@@ -119,3 +119,17 @@ entregavel-3/
 ├── package-lock.json
 └── .gitignore
 ```
+
+## Imagens do projeto
+
+### Soma
+![Tela de soma](print-soma.png)
+
+### Subtração
+![Tela de subtração](print-subtracao.png)
+
+### Multiplicação
+![Tela de multiplicação](print-multiplicacao.png)
+
+### Divisão
+![Tela de divisão](Print-divisao.png)

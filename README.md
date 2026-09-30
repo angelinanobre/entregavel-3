@@ -123,7 +123,7 @@ entregavel-3/
 ## Imagens do projeto
 
 ### Soma
-![Tela de soma](print-soma.png)
+![Tela de soma](Print-soma.png)
 
 ### Subtração
 ![Tela de subtração](print-subtracao.png)
